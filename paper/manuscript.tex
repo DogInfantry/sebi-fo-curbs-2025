@@ -23,7 +23,9 @@ Evidence from India's 2024--25 Equity Index Derivatives Reforms}\thanks{%
 We thank the Securities and Exchange Board of India (SEBI) for making the
 underlying market statistics publicly available. All data used in this paper
 are public and aggregate; sources and replication details appear in
-Appendix~\ref{app:data}. All errors are our own.
+Appendix~\ref{app:data}. All errors are our own. We welcome collaboration on
+extensions and related work; interested readers are invited to contact the
+corresponding author.
 \emph{AI-use disclosure (SSRN policy):} in preparing this paper the authors
 used a large language model (Claude, Anthropic) to assist with data-extraction
 code, statistical programming, and drafting. All data, analyses, results, and
@@ -36,7 +38,7 @@ full responsibility for the content of this paper.}}
 \and Shreshtha Rawat\thanks{Independent researcher.}\\[2pt]
 {\small ORCID:~\href{https://orcid.org/0009-0005-2546-2732}{0009-0005-2546-2732}}}
 
-\date{This version: July 2026}
+\date{This version: July 2026 (Working paper)}
 
 \begin{document}
 
@@ -68,7 +70,8 @@ exchanges, adapted to larger contracts, and, from January 2026, faced a
 rule-driven downward recalibration of lot sizes; participation effects
 persist through the latest available data.\\[6pt]
 \textbf{Keywords:} derivatives regulation; retail investors; index options;
-SEBI; difference-in-differences; market microstructure; India\\
+options trading; investor protection; SEBI; difference-in-differences;
+event study; market microstructure; India\\
 \textbf{JEL codes:} G14, G18, G28, G12, G41
 \end{abstract}
 
@@ -526,7 +529,43 @@ long-horizon extrapolations as bounds rather than estimates. We also report
 event-study versions (the path of $\Delta_t$ relative to October 2024,
 detrended on pre-period coefficients only) and placebo estimates that assign
 a false adoption date of November 2023 within the pre-period, in the spirit
-of \citet{conleytaber2011}.
+of \citet{conleytaber2011}. Table~\ref{tab:pretrend} collects the pre-trend
+and placebo diagnostics for the identifying gap in one place.
+
+\begin{table}[H]
+\centering
+\caption{Pre-trend diagnostics for the identifying gap}
+\label{tab:pretrend}
+\small
+\begin{threeparttable}
+\begin{tabular}{lcc}
+\toprule
+ & Notional & Premium \\
+\midrule
+Pre-period differential trend $\hat\gamma$ (log pts/month) & $0.022$ & $-0.033$ \\
+\quad standard error & $(0.007)$ & $(0.006)$ \\
+\quad $p$-value & $[0.002]$ & $[<0.001]$ \\
+\addlinespace
+Placebo shift, false Nov 2023 adoption ($\hat\beta_{\mathrm{plac}}$) & $0.243$ & $-0.387$ \\
+\quad standard error & $(0.140)$ & $(0.065)$ \\
+\quad months (pre-period only) & $31$ & $19$ \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Notes: $\hat\gamma$ is the slope of $\Delta_t=\ln(\text{index-opt.\
+ADT})-\ln(\text{stock-opt.\ ADT})$ on a linear trend over the pre-period
+(April 2022--October 2024 for notional; April 2023--October 2024 for
+premium); Newey--West (6-lag) standard errors. The placebo assigns a false
+adoption date of November 2023 and estimates equation~\eqref{eq:collapsed}
+on pre-period data only (Table~\ref{tab:robust}, Panel A). The notional
+placebo is small and insignificant at 5\% ($p=0.083$); the significant
+\emph{premium} placebo is the mechanical signature of the strong
+pre-existing premium-compression trend ($\hat\gamma=-0.033$), which the
+trend-adjusted estimator absorbs by construction, its placebo analogue being
+$\hat\gamma$ itself.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
 
 \subsection{Interrupted time series}
 
@@ -610,6 +649,46 @@ Columns (5)--(6) estimate equation~\eqref{eq:ta}; the implied gap at
 horizon $h$ is $\beta + h\delta$. The premium column (6) is dominated by
 the reversal of the premium-to-notional compression trend; see
 Section~\ref{subsec:composition}. Percent effects are $100(e^{\beta}-1)$.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+Table~\ref{tab:horizons} distills the headline magnitudes at the horizons
+that matter for policy.
+
+\begin{table}[H]
+\centering
+\caption{Headline effects at key horizons (trend-adjusted DiD vs.\ stock
+options)}
+\label{tab:horizons}
+\small
+\begin{threeparttable}
+\begin{tabular}{lcc}
+\toprule
+ & Log-point gap & Percent \\
+\midrule
+\multicolumn{3}{l}{\emph{Panel A: Notional ADT (trend-adjusted)}}\\
+\quad On impact ($h=0$) & $-0.573$ & $-43.6\%$ \\
+\quad 3 months ($h=3$) & $-0.546$ & $-42.1\%$ \\
+\quad 6 months ($h=6$) & $-0.519$ & $-40.5\%$ \\
+\quad Mean, Nov 2024--May 2025 & $-0.557$ & $-42.7\%$ \\
+\quad \emph{Memo:} no trend adjustment ($\gamma=0$) & $-0.469$ & $-37.4\%$ \\
+\addlinespace
+\multicolumn{3}{l}{\emph{Panel B: Premium ADT (trend-adjusted)}}\\
+\quad On-impact level shift ($\beta$) & $-0.007$ & $-0.7\%$ \\
+\quad Post-reform trend break ($\delta$, per month) & $+0.059$ & \\
+\quad Year on year, Dec--May (reference) & & $-13.0\%$ \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Notes: derived from Table~\ref{tab:main}, columns (5)--(6), and
+Section~\ref{subsec:sens}. Panel A reports the trend-adjusted implied gap
+$\beta+h\hat\delta$ ($\hat\beta=-0.573$, $\hat\delta=0.009$); the honest
+short-run bracket $[-43\%,-37\%]$ is spanned by the trend-adjusted and the
+no-trend ($\gamma=0$) window means. Panel B: the premium effect is the
+reversal of the pre-reform premium-to-notional compression, captured by the
+trend break $\delta$ ($+5.9$ log points per month, $p<0.001$) rather than a
+level change; see Section~\ref{subsec:composition}. Percent $=100(e^{x}-1)$.
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
@@ -736,6 +815,30 @@ exposure rose. In economic terms, the reforms did not proportionally reduce
 the rupee amount spent on option purchases; they eliminated the
 highest-leverage, lottery-like end of the product spectrum, precisely the
 segment SEBI's studies associate with the most concentrated retail losses.
+
+Figure~\ref{fig:premnot} shows this compositional reversal directly: the log
+premium-to-notional ratio falls steadily through the boom and turns upward at
+the reforms.
+
+\begin{figure}[H]
+\centering
+\IfFileExists{figures/fig9_premium_notional.pdf}
+{\includegraphics[width=0.85\textwidth]{fig9_premium_notional.pdf}}
+{\IfFileExists{fig9_premium_notional.pdf}
+{\includegraphics[width=0.85\textwidth]{fig9_premium_notional.pdf}}
+{\IfFileExists{../figures/fig9_premium_notional.pdf}
+{\includegraphics[width=0.85\textwidth]{fig9_premium_notional.pdf}}
+{\fbox{\parbox[c][4cm][c]{0.8\textwidth}{\centering [\,fig9\_premium\_notional.pdf:
+run \texttt{code/07\_premium\_notional\_figure.py} to generate this figure\,]}}}}}
+\caption{Composition of index-options activity: the log premium-to-notional
+ratio $\ln(\text{premium ADT}/\text{notional ADT})$, market-wide (NSE+BSE),
+April 2023--March 2026. Dashed line: linear trend fitted on the pre-reform
+period (April 2023--October 2024) and extrapolated. Vertical lines: the three
+reform waves (20 November 2024; January 2025; 1 April 2025). The multi-year
+decline (progressively cheaper, shorter-dated, deeper out-of-the-money
+contracts) reverses sharply after the first wave.}
+\label{fig:premnot}
+\end{figure}
 
 Two caveats bound this interpretation. First, premium turnover is an
 imperfect welfare metric: it measures buyers' outlay, not net economic
@@ -1154,13 +1257,13 @@ zero-days-to-expiry growth under a permissive regime.
 \bibitem[Agarwal et al.(2025)]{agarwal2025animal}
 Agarwal, V., P. Ghosh, N.~R. Prabhala, and H. Zhao (2025).
 Animal spirits on steroids: Evidence from retail options trading in India.
-Working paper (SSRN 5430635).
+Working paper. SSRN 5430635.
 
 \bibitem[Aggarwal and Mitra(2026)]{aggarwalmitra2026}
 Aggarwal, N. and B. Mitra (2026).
 Retail losses in India's derivatives market: A re-examination of the
 evidence.
-\emph{Ideas for India}, 29 April 2026.
+\emph{Ideas for India}, 29 April 2026. Accessed 16 July 2026.
 
 \bibitem[Barber et al.(2009)]{barberleeliuodean2009}
 Barber, B.~M., Y.-T. Lee, Y.-J. Liu, and T. Odean (2009).
@@ -1175,7 +1278,7 @@ Option trading and individual investor performance.
 \bibitem[Beckmeyer et al.(2023)]{beckmeyer2023zdte}
 Beckmeyer, H., N. Branger, and L. Gayda (2023).
 Retail traders love 0DTE options... but should they?
-Working paper, University of M\"unster (SSRN 4404704).
+Working paper. University of M\"unster. SSRN 4404704.
 
 \bibitem[Bertrand et al.(2004)]{bertrand2004}
 Bertrand, M., E. Duflo, and S. Mullainathan (2004).
@@ -1207,7 +1310,7 @@ changes.
 de Silva, T., K. Smith, and E.~C. So (2024).
 Losing is optional: Retail option trading and expected announcement
 volatility.
-Working paper, MIT Sloan.
+Working paper. MIT Sloan.
 
 \bibitem[Donald and Lang(2007)]{donaldlang2007}
 Donald, S.~G. and K. Lang (2007).
@@ -1306,7 +1409,41 @@ we combine the April 2023 issue (FY2022--23 months), April 2024 issue
 issue (March 2025, extracted from the PDF annexure), and April 2026 issue
 (FY2025--26). The FY2022--23 bulletin format reports options turnover in
 notional terms only; premium reporting begins with the FY2023--24 format,
-so premium series start April 2023.
+so premium series start April 2023. Table~\ref{tab:bulletins} lists the
+issues used and the panel months each contributes.
+
+\begin{table}[H]
+\centering
+\small
+\caption{SEBI Monthly Bulletin issues used and the panel months each
+contributes}
+\label{tab:bulletins}
+\begin{threeparttable}
+\begin{tabular}{lll}
+\toprule
+Bulletin issue & Panel months contributed & Options series \\
+\midrule
+April 2023 & Apr 2022 -- Mar 2023 (FY2022--23) & Notional only\tnote{a} \\
+April 2024 & Apr 2023 -- Mar 2024 (FY2023--24) & Notional + premium \\
+March 2025 & Apr 2024 -- Feb 2025 & Notional + premium \\
+April 2025 & Mar 2025\tnote{b} & Notional + premium \\
+April 2026 & Apr 2025 -- Mar 2026 (FY2025--26) & Notional + premium \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Notes: annexure tables ``Trends in Equity Derivatives Segment at
+NSE/BSE'' and ``Trends in Cash Segment of NSE/BSE''
+(\url{https://www.sebi.gov.in}). Each issue reports monthly rows only for the
+fiscal year then in progress; the notional panel spans 48 months (April
+2022--March 2026) and the premium panel 36 months (April 2023--March 2026).
+\item[a] The FY2022--23 bulletin format reports options turnover in notional
+terms only; premium reporting begins with the FY2023--24 format.
+\item[b] March 2025 cells extracted from the PDF annexure; stock-options
+cells absent from that layout are recovered as fiscal-year totals minus the
+sum of April 2024--February 2025.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
 
 Participation and profitability tables are from SEBI's research reports of
 25 January 2023, 23 September 2024, and 7 July 2025
@@ -1364,12 +1501,12 @@ with the derived CSV panel and all source-document URLs and download dates
 is used at any step.
 
 \paragraph{Data and code availability.} The complete replication
-package---the derived monthly panel and cohort CSV files, all estimation
-and figure code, and the source SEBI bulletin documents---is openly
+package (the derived monthly panel and cohort CSV files, all estimation
+and figure code, and the source SEBI bulletin documents) is openly
 available. The version-controlled project is maintained at
 \url{https://github.com/DogInfantry/sebi-fo-curbs-2025}; a citable
 snapshot of that repository is archived on Zenodo
-(DOI: \href{https://doi.org/10.5281/zenodo.21418951}{10.5281/zenodo.21418951}),
+(DOI: \href{https://doi.org/10.5281/zenodo.21419533}{10.5281/zenodo.21419533}),
 and the curated dataset is deposited at the Harvard Dataverse
 (DOI: \href{https://doi.org/10.7910/DVN/FZYZNN}{10.7910/DVN/FZYZNN}).
 All inputs are public SEBI publications.
@@ -1392,7 +1529,7 @@ market: $-9.6\%$.
 
 In accordance with SSRN policy, the authors disclose that a large language
 model (Claude, Anthropic) was used in the preparation of this paper for
-data-extraction and statistical code, figure production, and drafting
+statistical code, and preliminary drafting
 assistance. The research design, data-source selection, verification of all
 extracted numbers against primary SEBI documents, interpretation of
 results, and final text were determined and reviewed by the authors, who
