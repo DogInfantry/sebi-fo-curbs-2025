@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the paper and the archived code/data below."
+title: "Regulating the Retail Options Boom: Evidence from India's 2024-25 Equity Index Derivatives Reforms"
+abstract: >-
+  Replication package (code, derived data panel, cohort files, and source SEBI
+  documents) for a difference-in-differences study of SEBI's 2024-25 equity
+  index derivatives curbs and their effect on turnover, participation, and
+  substitution in India's options market.
+type: software
+authors:
+  - family-names: Rawat
+    given-names: Anklesh
+    orcid: "https://orcid.org/0009-0001-2399-8032"
+    email: ankleshrawat5@duck.com
+  - family-names: Rawat
+    given-names: Shreshtha
+    orcid: "https://orcid.org/0009-0005-2546-2732"
+version: "v1.0.0"
+date-released: "2026-07-17"
+license: CC-BY-4.0
+url: "https://github.com/DogInfantry/sebi-fo-curbs-2025"
+repository-code: "https://github.com/DogInfantry/sebi-fo-curbs-2025"
+doi: 10.5281/zenodo.21418951
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21418951
+    description: Archived code and data snapshot (Zenodo)
+  - type: doi
+    value: 10.7910/DVN/FZYZNN
+    description: Curated dataset (Harvard Dataverse)
+keywords:
+  - derivatives regulation
+  - retail investors
+  - index options
+  - SEBI
+  - difference-in-differences
+  - market microstructure
+  - India
