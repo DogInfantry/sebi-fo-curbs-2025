@@ -1,0 +1,108 @@
+{
+  "validation": {
+    "D1_notional_reproduced": 0.03340067405251501,
+    "reference": 0.03340067405251501,
+    "TA_notional_reproduced": -0.5731995261686732
+  },
+  "C1_split_unadjusted_notional": {
+    "beta_post1_nov24_dec25": -0.0035753317285044522,
+    "se_post1": 0.13784702293878895,
+    "p_post1": 0.9793076258753138,
+    "beta_post2_jan26_mar26": 0.20595536769727707,
+    "se_post2": 0.10484427923162079,
+    "p_post2": 0.049484534565602444,
+    "n_months_post2": 3
+  },
+  "C1_split_trendadj_notional": {
+    "beta_post1": -0.5997866987881755,
+    "se_post1": 0.1613546953623365,
+    "p_post1": 0.00020144778733599932,
+    "beta_post2": -0.6925009417689996,
+    "se_post2": 0.20025888513984547,
+    "p_post2": 0.0005441437214726703
+  },
+  "C1_split_unadjusted_premium": {
+    "beta_post1": -0.1148598241772318,
+    "se_post1": 0.1077968770268586,
+    "p_post1": 0.28664027812312487,
+    "beta_post2": 0.12811132596731978,
+    "se_post2": 0.10707447385491833,
+    "p_post2": 0.2315134530412779
+  },
+  "C2_dose_response": {
+    "slope_logmid_x_post": 0.0647016157851901,
+    "se": 0.016249686788300324,
+    "p_HC1": 6.841989482063997e-05,
+    "interpretation": "extra log-points of participation growth per log-rupee of cohort size after the reform",
+    "spearman_swing_vs_size": {
+      "rho": 0.8285714285714287,
+      "p": 0.04156268221574334,
+      "n": 6
+    },
+    "spearman_postgrowth_vs_size": {
+      "rho": 0.8857142857142858,
+      "p": 0.01884548104956266,
+      "n": 6
+    },
+    "swings_by_bucket": {
+      "<10k": -1.1677,
+      "10k-1L": -0.7873,
+      "1L-10L": -0.6419,
+      "10L-1Cr": -0.4249,
+      "1Cr-10Cr": -0.3161,
+      ">10Cr": -0.4509
+    }
+  },
+  "C3_nw_lag_sensitivity_notional": {
+    "2": {
+      "unadj_beta": 0.03340067405251501,
+      "unadj_se": 0.1048742054257296,
+      "ta_beta": -0.5731995261686732,
+      "ta_se": 0.14206857340822193,
+      "ta_p": 5.4679557282706814e-05
+    },
+    "4": {
+      "unadj_beta": 0.03340067405251501,
+      "unadj_se": 0.12518528002965518,
+      "ta_beta": -0.5731995261686732,
+      "ta_se": 0.14323848181667684,
+      "ta_p": 6.288511936810247e-05
+    },
+    "6": {
+      "unadj_beta": 0.03340067405251501,
+      "unadj_se": 0.13841807712485427,
+      "ta_beta": -0.5731995261686732,
+      "ta_se": 0.1475029037571549,
+      "ta_p": 0.0001019002841987088
+    },
+    "8": {
+      "unadj_beta": 0.03340067405251501,
+      "unadj_se": 0.14518856972143915,
+      "ta_beta": -0.5731995261686732,
+      "ta_se": 0.14344617214077882,
+      "ta_p": 6.444330923731043e-05
+    },
+    "12": {
+      "unadj_beta": 0.03340067405251501,
+      "unadj_se": 0.14829154126117708,
+      "ta_beta": -0.5731995261686732,
+      "ta_se": 0.13087034709121712,
+      "ta_p": 1.1873173140069164e-05
+    }
+  },
+  "C4_bse_share": {
+    "notional_share_oct2024": 0.23501810979912738,
+    "notional_share_mar2026": 0.4413619828731664,
+    "premium_share_oct2024": 0.12695189549107858,
+    "premium_share_mar2026": 0.2787174581503935
+  },
+  "C5_pretrend_curvature_notional": {
+    "quad_beta": -0.3957938096834723,
+    "quad_se": 0.07700150734630509,
+    "quad_p": 2.74623383331622e-07,
+    "piecewise_beta": -0.3313624005611798,
+    "piecewise_se": 0.07051655198919703,
+    "piecewise_p": 2.6134548523394533e-06,
+    "note": "On-impact break robust to curvature; concave-quadratic extrapolation unstable at multi-month horizons (see paper, Robustness)."
+  }
+}

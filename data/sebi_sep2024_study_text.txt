@@ -1,0 +1,1139 @@
+--- PAGE 1 ---
+Analysis of Profits & Losses in the
+Equity Derivatives Segment (FY22-FY24)
+Department of Economic and Policy Analysis
+--- PAGE 2 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Table of Contents
+EXECUTIVE SUMMARY .................................................................................................................... 2
+1. OBJECTIVE OF THE STUDY ..................................................................................................... 5
+2. BACKGROUND ........................................................................................................................... 6
+3. DATA COLLECTION AND OVERVIEW ................................................................................ 8
+4. METHODOLOGY ........................................................................................................................ 9
+5. DATA ANALYSIS AND FINDINGS ...................................................................................... 11
+SECTION 1: ENTIRE POPULATION DATA OF NSE F&O SEGMENT (ALL BROKERS,
+ALL INVESTOR CATEGORIES) ................................................................................................. 11
+5.1. Category-wise Profit & Loss for FY24 ............................................................................. 11
+SECTION 2: SELECT SAMPLE (SAMPLE OF TOP 15 BROKERS, INDIVIDUAL
+CATEGORY INVESTORS) ........................................................................................................... 14
+5.2. Proportion of Loss-Makers ............................................................................................... 14
+5.3. Amount of Losses by Individual Category Traders ...................................................... 15
+5.4. Transaction Costs (TC) ...................................................................................................... 16
+5.5. Aggregate Amount of Profit & Loss in F&O during FY22-FY24 ................................. 17
+5.6. Product Preference ............................................................................................................. 20
+5.7. Average Trade Size – Options Segment .......................................................................... 21
+5.8. Size Wise Trends – Options Segment .............................................................................. 21
+5.9. Age Wise Trends ................................................................................................................ 22
+5.10. Income Wise Trends ...................................................................................................... 23
+5.11. Gender Wise Trends ...................................................................................................... 25
+5.12. Profit-Makers vs. Loss-Makers ..................................................................................... 26
+5.13. New Traders vs. Regular Traders ................................................................................ 27
+5.14. Geographic Spread ......................................................................................................... 28
+5.15. Trading Behavior and Persistence ............................................................................... 30
+6. ANNEXURES ............................................................................................................................. 31
+6.1. Trends based on Trading Activity in Options in FY24 ................................................. 31
+6.2. State-wise distribution of F&O Traders .......................................................................... 32
+Page 1 of 33
+--- PAGE 3 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+EXECUTIVE SUMMARY
+Individual Category Loss-Makers (FY24):
+1. 91.1% of individual traders (about 73 lakh traders) lost money in the F&O segment in FY24.
+2. 73 lakh loss-making traders, on an average, experienced net losses1 of ₹1.20 lakh per
+person in FY24 (inclusive of transaction costs).
+Individual Category Loss-Makers (during study period i.e. FY22-FY24):
+3. During FY22-FY24, 1.13 crore unique Individual traders incurred a combined net loss (i.e.
+trading loss inclusive of transaction costs) of ₹1.81 lakh crore in F&O. In FY24 alone,
+Individuals incurred about ₹75k crore in net losses.
+4. More than 1 crore loss-making traders (92.8% of individual traders) lost, on an average,
+about ₹ 2 lakh per person in the F&O over the period of three years.
+5. Top 3.5% of loss-makers, approximately 4 lakh traders, faced an average loss of ₹28 lakh
+per person over the same period, inclusive of transaction costs.
+6. Only 7.2% of Individual F&O traders made a profit over the period of three years.
+7. Only 1% of individual traders managed to earn profits exceeding ₹1 lakh, after adjusting
+for transaction costs.
+Major Category-wise P&L Pattern2:
+8. While, Individuals made losses in F&O, the FPIs and Proprietary traders earned profits.
+The Proprietary traders earned about ₹33,000 crore of gross profits (i.e. trading profits
+before accounting for transaction costs) in F&O segment in FY24, followed by FPIs who
+earned about ₹28,000 crore in gross profits. Against this, Individuals and others incurred
+a loss of over ₹61,000 crore in FY24 (before accounting for transaction costs).
+9. Majority of profits for FPIs and Proprietary traders were made by “Algo entities”3. 97%
+profits of FPIs and 96 % profits of Proprietary traders came from Algo entities in FY24.
+1 Net Losses means trading losses inclusive of various transaction costs.
+2 This analysis is based on the entire population of F&O traders. Further, the P&L represent only squared off gross
+P&L (i.e not adjusted for transaction costs and not considering the open positions at the end of FY24).
+3 Algo entities are considered as those entities, who have done at least one trade in a year using algorithmic order.
+Page 2 of 33
+--- PAGE 4 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Product Preference:
+10. 99.3% of the F&O traders traded Options at least once during the last three years.
+11. The percentage share of F&O traders, who traded Futures at least once during a year, has
+come down to 5.9% in FY24 from 10.6% in FY22.
+Transaction Costs (TC):
+12. Individuals incurred more than ₹50,000 crores in transaction costs for trading in F&O
+during FY22 to FY24. Of which more than half (about ₹25,000 crore) was in the form of
+brokerage, followed by ₹13,800 crores to the Government in the form of STT, GST and
+Stamp duty and ₹10,200 crore in the form of Exchange fees.
+13. On an average, individual traders spent ₹26,000 per person on F&O transaction costs in
+FY24.
+14. Nearly 71% of transaction cost was in the form of Brokerage (51% of TC) and Exchange
+Fees (20% of TC).
+Product-wise, Activity-wise:
+15. Percentage of Individuals making losses in Futures contracts is consistently lower than
+those making losses in Options contracts throughout the study period. In FY24, about 60%
+of traders made net losses in Futures, compared to 91.5% in Options.
+16. Higher trading activity was associated with a higher percentage of loss-makers. The
+proportion of loss makers was highest (95% of total traders) in “High-Value”4 traders,
+compared to “Mid-size” traders (93.8%) and “Small-size” traders (91.5%).
+Demographic Trends:
+17. The proportion of young traders (having age less than 30 years) trading in F&O has
+increased significantly from 31% in FY23 to 43% in FY24. Nearly 93% of these young
+traders incurred losses in F&O in FY24, higher than the average loss makers of 91.1% in
+FY24.
+18. Over 75% of individual F&O traders (65.4 lakh traders) in FY24 had declared annual
+income of less than ₹5 lakh.
+4 “High-Value” Traders is defined as the trader who recorded combined premium turnover of more than ₹1 crore in Options
+during FY22 to FY24. “Mid-Size” trader means trader having combined turnover between ₹1 Lakh and ₹1 crore. “Small-
+Size” trader means trader having combined turnover of less than ₹1 Lakh over three years’ period.
+Page 3 of 33
+--- PAGE 5 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+19. The proportion of “Low_Income” traders (having annual income less ₹5 lakh) has increased
+significantly from 71% in FY22 to 76% in FY24.
+20. The proportion of ‘Female’ traders participating in F&O has decreased from 14.9% in FY22
+to 13.7% in FY24. Compared to ‘Male’ traders, less proportion of ‘Female’ traders incurred
+losses. While 91.9% ‘Male’ traders made losses in F&O in FY24, 86.3% percentage of
+‘Female’ traders made losses in F&O.
+21. Individuals from Beyond Top 30 (B30) cities made up over 72% of the total F&O trader
+base in FY24, a higher proportion compared to mutual fund investors, 62% of whom are
+from B30 cities.
+22. For every 100 Mutual Fund investors, there were 28.6 F&O traders from B30 cities and 17.8
+F&O traders from T30 cities in FY24.
+23. More than 50% of all the F&O traders, who traded in FY24, were from top four states
+namely Maharashtra, Gujarat, Uttar Pradesh and Rajasthan. 21.7% of F&O traders (or 18.8
+lakh F&O traders) were from Maharashtra followed by Gujarat (10.1 lakh or 11.6%), UP
+(9.3 lakh, or 10.7%) and Rajasthan (5.4 lakh or 6.2%).
+New Traders:
+24. Almost half of all the F&O traders in FY24 (42 lakh traders) were “New_Traders” (i.e.
+traders who traded for the first time in three years in the equity F&O segment). 92.1% of
+these “New_Traders” experienced losses and on an average, experienced a net loss of about
+₹46,000 per person in FY24.
+Persistence:
+25. More than 75% of the loss-makers persisted with the trading in F&O, despite making
+losses in preceding two consecutive years.
+Page 4 of 33
+--- PAGE 6 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+1. OBJECTIVE OF THE STUDY
+This study is an extension of the earlier study published by SEBI in January 2023 titled “Profit
+& Losses of Individuals in the Equity Derivatives segment”5 for the period FY19 and FY22, to
+see if there has been any significant pattern in the Profit and Loss of Individual category. In
+the said study, it was found that 9 out of 10 Individual investors made losses in derivatives.
+With rising participation of individual investors in both equity and equity derivatives and
+exponentially growing volumes in the derivatives in the recent past, it was felt necessary to
+understand the changing pattern in the profits and losses of all categories of investors
+(including Individual Investors). More attention is given to the Individual category investors,
+as almost 99.8% of the F&O participants are Individuals.
+This follow-up study aims to analyze,
+a) Changes in the P&L pattern of Individuals, since last SEBI study for FY19 and FY22;
+b) The pattern in trading behavior and profits and losses of different categories of
+investors (viz. FPI and Prop trader) in the equity Futures and Options (F&O) segment;
+c) The pattern in profits and losses of Individual category investors, factoring in
+demographics and other factors such as trading activity and product preference.
+5 https://www.sebi.gov.in/reports-and-statistics/research/jan-2023/study-analysis-of-profit-and-loss-of-
+individual-traders-dealing-in-equity-fando-segment_67525.html#
+Page 5 of 33
+--- PAGE 7 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+2. BACKGROUND
+India’s derivatives market has witnessed remarkable growth since its inception in June 2000,
+when the National Stock Exchange (NSE) launched trading in Index Futures. The market
+quickly expanded with the introduction of Index Options, Stock Futures, and Stock Options.
+The derivatives product became popular and derivatives market became integral part of the
+Indian financial system, facilitating hedging, speculation, and price discovery in the financial
+system to various categories of investors.
+Over the past two decades, India has evolved into one of the largest and most liquid
+derivatives markets in the world, driven by increasing participation from retail investors,
+Foreign Portfolio Investors (FPIs), and proprietary traders. This expansion was facilitated by
+technological advancements, regulatory reforms, and the growing need for risk management
+tools in a rapidly evolving financial landscape.
+The derivatives market, particularly the equity segment, has seen an exponential rise in
+trading volumes. This growth can be attributed to several factors, including heightened
+market awareness, improved access to financial products, and increasing volatility in asset
+prices. The ability to hedge risk efficiently, leverage positions with minimal capital, and
+speculate on price movements without owning the underlying asset has made derivatives an
+attractive tool for a wide range of market participants.
+In recent years, the rise in algorithmic trading and the increasing participation of individual
+retail investors in the derivatives space have further propelled the market’s growth. The
+availability of sophisticated trading platforms and lower transaction costs have enabled retail
+investors to actively trade in Options and Futures contracts, contributing to the surge in
+market liquidity. A rise of Individual traders’ participation in the F&O segment has also kick-
+started a debate on product suitability and the need for safety nets and firewalls for Individual
+investors. The number of Retail traders, or Individual traders (Individuals) have almost
+doubled in two years from about 51 lakhs in FY22 to about 96 lakhs in FY24. Although they
+contributed about 30% in total turnover in FY24, they are a clear majority in number terms, as
+99.8% of total traders in the equity F&O segment are Individuals.
+Page 6 of 33
+--- PAGE 8 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Table 1: Percentage share of Individual category in the Equity F&O segment
+Investors in F&O (in lakh) Notional Turnover in F&O segment
+Year
+(in ₹ Lakh Crore)
+% of % of Total
+Individual Total Individual Total
+Total
+FY22 51.35 51.51 99.7% 12,125 33,905 35.8%
+FY23 66.96 67.13 99.7% 26,531 76,447 34.7%
+FY24 95.75 95.93 99.8% 48,479 1,59,855 30.3%
+Note: Please note that the turnover is computed as two sided Notional Turnover, i.e. sum of notional
+turnover of buyer as well as that of seller.
+Further, compared to Mutual Fund investors, the number of Individual F&O traders have
+grown faster. In FY22, there were 20 derivatives traders for every 100 Mutual Fund investors,
+in FY24, that number has gone up to 24.5.
+Therefore, this rapid growth in F&O trading activity has once again highlighted the need for
+investor education and risk management practices, as a significant proportion of retail traders
+continued to incur losses in the market. SEBI study in 2023 highlighted that 89% of individual
+traders in the F&O segment lost money in FY22. These traders, on average, experienced net
+losses of ₹1.10 lakh during the study period, underscoring the high-risk nature of derivatives
+trading for individuals.
+Page 7 of 33
+--- PAGE 9 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+3. DATA COLLECTION AND OVERVIEW
+For Section 1 (Entire Population)
+For this section, category-wise data of all investor categories that traded in the equity F&O
+segment of NSE during FY24 is collected. For this section, the categories are classified as
+under,
+Table 2: Definitions of categories for Section 1 Data
+Category Major Entities
+FPI FPI-all categories, FVCI, QFI, etc.
+Mutual Fund, Banks, NBFC, Insurance Companies, AIFs, Domestic
+DII
+Financial Institutions, etc.
+Proprietary
+Trading Member, who itself trade in F&O in its own account
+Traders
+Individuals, HUF, Proprietorship Firm, Partnership Firm, Limited
+Individuals
+Liability Partnership Firm
+Corporates, Trusts, Society, NRI, PMS clients, Non Govt.
+Others
+Organization
+For Section 2 (Select sample of top 15 brokers)
+For this section, individual client-wise (which includes HUF and NRIs but excludes
+Proprietary traders, institutions, partnership firms, corporates etc.) data of realized net
+trading profit /loss incurred during FY22, FY23 and FY24 has been collected from the top 15
+brokers (based on individual traders’ turnover for the period FY24) in equity F&O segment of
+NSE. These top 15 brokers account for nearly 90 percent of total individuals and about 75
+percent of the individual client level turnover in NSE equity F&O segment during FY24.
+Table 3: Sample of Investors from Top15 brokers
+No of Individual Investors in F&O (in lakh)
+Year
+Sample Actual % of Total
+FY22 42.74 51.35 83.2%
+FY23 58.35 66.96 87.1%
+FY24 86.26 95.75 90.1%
+Notes: 1. Sample means clients of Top15 broker; Actual means – Total traders in the F&O segment of
+NSE;
+It may be noted that the sample of earlier SEBI study was based on Top 10 brokers, whereas
+that of current study is based on the sample collected from Top 15 brokers.
+Page 8 of 33
+--- PAGE 10 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+4. METHODOLOGY
+In order to analyse the net profit/ loss6 of individual traders dealing in the equity F&O
+segment, data has been collated from top 15 brokers with respect to realized gross and net
+trading profit/loss, transaction cost, number of transactions carried out during the analysis
+period, various demographic parameters which includes age, gender, and city. Further, the
+data fields (as given in the table below) have been divided into subcategories, in order to have
+a holistic as well as an in-depth view of the P&L of individual traders across different
+categories.
+Table 4: Description of Data fields
+Data Fields/
+Sl. No. Sub-category
+Parameters
+1 Product Category Index Options, Stock Options, Index Futures, Stock Futures
+2 Age <30, 30-40, 40-50, 50-60, >60 (years)
+3 Income <5 Lakh, 5-10L, 10-25L, 25-50L, 50-100L, >100L
+4 Gender Male/ Female
+5 Tier_Cities Tier I, Tier II, Tier III *
+6 T30_B30_Cities Top 30 Cities, Beyond 30 Cities #
+Notes:
+a) Tier I (The following 7 cities considered - Banglore, Delhi, Chennai, Hyderabad, Mumbai,
+Pune, Kolkata).
+b) Tier II (The following 20 cities considered - Amritsar, Bhopal, Bhubaneswar, Chandigarh,
+Faridabad, Ghaziabad, Jamshedpur, Jaipur, Kochi, Lucknow, Nagpur, Patna, Raipur, Surat,
+Visakhapatnam, Agra, Ajmer, Kanpur, Mysuru, Srinagar),
+c) Tier III (The following 19 cities considered - Etawah, Roorkee, Rajamundry, Bhatinda, Hajipur,
+Rohtak, Hosur, Gandhinagar, Junagadh, Udaipur, Salem, Jhansi, Madurai, Meerut, Mathura,
+Bikaner, Cuttack, Vijayawada, Nashik).
+d) * - A pin code mapping has been done for these cities as per the information available in
+https://data.gov.in/ in order to maintain consistency across all the brokers.
+e) # - Top 30 cities classification is as per the pin code mapping provided by AMFI.
+ Sample Brokers: Top 15 brokers (brokers were identified on the basis of largest percentage
+share of individual traders’ turnover in equity F&O segment of NSE during FY24)
+ Client-set: Individual Clients (which includes HUF and NRIs; excludes Proprietary
+traders, institutions, partnership firms etc.)
+6 Net Profit/Loss: Net trading P/L – Transaction Cost
+Page 9 of 33
+--- PAGE 11 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+ Period: FY 2021-22 to FY 2023-24
+ Segment: Equity F&O Segment
+ Variables: Product category, Age, Income, Gender, Pincode, Net trading Profit/Loss,
+Transaction cost
+ Losses: Unless otherwise mentioned Losses in this report means “Net Losses” (after
+adjusting for transaction costs.
+ For computation of profit/loss- realized profit/loss during the period is considered.
+ For clarity w.r.t cases where 1 leg of transaction falls under the study period, while, other
+falls outside, explanation is given as under-
+ Example 1: Period: FY 2021-22; Consider Contract-A with expiry in April 2021.
+Contract-A purchased & sold during March 2021 - will not be considered
+Contract-A purchased during March 2022, sold during April 2022/ settled on
+expiry - will be considered.
+ Contracts resulting in physical delivery of stocks are excluded.
+ For PIN Codes correspondence address is considered.
+It may be noted that the results of Section 1 (entire population at NSE) and Section 2 (sample
+of top 15 brokers) are not strictly comparable. The difference in the data is as given in the table
+below,
+Table 5: Difference in Section1 and Section 2 data
+Section 1 Section 2
+(Entire population of NSE F&O) (Sample of top 15 brokers)
+Exchange data Only NSE Both NSE and BSE
+Brokers data All Brokers at NSE Top 15 Brokers in F&O
+Individual Category Individuals, HUF, Proprietorship Individuals, HUFs and NRIs
+Definition firms, Partnership Firm, Limited
+Liability Partnership Firm
+No. of Individual 95.75 lakh 86.26 lakh
+Investors
+Gross Loss of ₹ 41,544 crore ₹ 52,361 crore
+Individuals in FY24
+Page 10 of 33
+--- PAGE 12 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+5. DATA ANALYSIS AND FINDINGS
+SECTION 1: ENTIRE POPULATION DATA OF NSE F&O SEGMENT (ALL BROKERS,
+ALL INVESTOR CATEGORIES)
+ This section is based on the entire population of 95.7 lakh traders in the equity F&O
+segment of NSE for FY24. Further, the P&L represent only squared off gross P&L (i.e.
+not adjusted for transaction costs and not considering the open positions at the end of
+FY24).
+5.1. Category-wise Profit & Loss for FY24
+ In FY24, the Proprietary traders’ category earned the highest gross profit7 (i.e. trading
+profits before accounting for transaction costs) of about ₹33,000 crore in the equity
+F&O segment of NSE, followed by Foreign Portfolio Investors (FPIs) category (₹28,000
+crore). Domestic Institutional Investors (DIIs) earned modestly in the F&O to the tune
+of ~ ₹200 crore in gross profits. On the other hand, the Individual category experienced
+the highest gross loss of ~ ₹41,500 crore, while ‘Others’ category (which represented
+mostly Corporates, Trusts, NRIs and PMS clients) incurred a gross loss (i.e. trading
+loss before accounting for transaction costs) of ~ ₹19,700 crore.
+Chart 1: Gross P&L in Equity Derivatives Segment- FY24 (Amount in ₹Crore)
+33,037
+27,965
+210
+Proprietary FPI DII Others Individuals
+-19,668
+-41,544
+Source: NSE
+ However, there was a diverging pattern in profit and loss in Futures vis-à-vis Options
+for Individuals. While, Individuals made losses in Options to the tune of ~ ₹55,000
+crore in FY24, they made profits to the tune of about ~ ₹13,400 crore in Futures.
+7 Gross profit means trading profits before accounting for transaction costs
+Page 11 of 33
+--- PAGE 13 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Chart 2: Gross P&L in Equity Derivatives Segment- FY24 (Futures vs Options)
+(Amount in ₹ `000 crore)
+27.3
+21.4
+13.4
+5.8 6.6 6.2
+0.1 0.1
+Proprietary FPI DII Others Individuals
+-25.9
+Futures Options
+-55.0
+Source: NSE
+ FPI and Proprietary traders mainly traded through algorithms (commonly known as
+Algorithmic Trading). 306 out of 376 FPIs traded through algorithms, while 347 out of
+626 Proprietary traders traded through algorithms. On the other hand, only 13% of
+95.7 lakh individual traders traded through algorithms. This 13% proportion is
+overstated because it also includes those clients, who had experienced forced
+liquidation by the brokers (usually post 3.20 pm) to square-off intraday positions,
+using algorithmic trading.
+Table 6: Number of Investors in F&O segment of NSE during FY24
+Number
+Category of Algo / Non
+of Futures Options Derivatives
+Investors Algo
+Traders
+Algo 281 203 306
+FPIs 376
+Non_Algo 44 59 70
+Algo 274 277 279
+Proprietary 626
+Non_Algo 313 328 347
+Algo 31 27 33
+DIIs 48
+Non_Algo 10 13 15
+Algo 1,07,211 12,44,182 12,44,936
+Individuals# 95,75,473
+Non_Algo 5,64,771 82,44,133 83,30,537
+Algo 1,138 1,659 1,725
+Others## 14,162
+Non_Algo 6,829 11,078 12,437
+Algo 1,08,935 12,46,348 12,47,279
+Total 95,90,685
+Non_Algo 5,71,967 82,55,611 83,43,406
+Note: 1. For the purpose of this study, Algo entities are classified as those entities, who have done at least one
+trade in a year using algorithmic order. 2. “Individuals” includes Individuals, HUF, Proprietorship firms,
+Partnership Firm. 3. “Others” includes Corporates, Trusts, Society, NRI, PMS clients.
+Source: NSE
+Page 12 of 33
+--- PAGE 14 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+ The majority of profits of FPIs and Proprietary traders in F&O was earned by Algo
+entities. Algo entities are defined as those entities, who have done at least one trade in
+a year using algorithmic order. “Others” category, which includes mainly Corporates,
+NRIs and Trusts, made losses with Algos, but profit without Algos.
+ 97% profits of FPIs and 96% profits of Proprietary traders came from Algo entities.
+Chart 3: Gross P&L in Equity Derivatives Segment- FY24 (Algo vs Non-Algo
+entities) (Amount in ₹ `000 crore)
+32.0
+26.9
+4.9
+1.1 1.1 0.2 0.0
+Proprietary FPI DII Others Individuals
+-13.9
+-24.5
+-27.7
+Algo Non-Algo
+Note: 1. Algo entities are classified as those entities, who have done at least one trade in a year using algorithmic
+order. 2. Some Individuals are also considered as Algo entities, if their broker has squared off their position using
+Algo.
+Source: NSE
+Page 13 of 33
+--- PAGE 15 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+SECTION 2: SELECT SAMPLE (SAMPLE OF TOP 15 BROKERS, INDIVIDUAL CATEGORY
+INVESTORS)
+ This section onwards, the analysis is based on a sample of 15 brokers and limited to
+Individual investors. Individuals means Individuals, HUFs and NRIs. The period of
+this study is from FY22 to FY24.
+5.2. Proportion of Loss-Makers
+ In FY24, 91.1% individuals made net losses (i.e. trading losses inclusive of transaction
+costs) in F&O, compared to 91.5% in FY23 and 90.2% in FY22. In terms of gross P&L
+(i.e. trading profits & losses before accounting for transaction costs), 85.1% of
+individuals made losses in FY24.
+ In terms of Future versus Options Traders, it was observed that the percentage of
+Individual traders making losses in Futures contracts is constantly lower than those
+making losses in Options contracts throughout the study period. In FY24, only about
+60% traders made (net) losses in Futures, compared to 91.5% in Options.
+Chart 4: Proportion of Loss Makers in F&O segment – Individual Category
+% of Individuals Making Losses % of Individuals Making Net Losses
+(Gross vs Net) (Futures vs Options)
+90.4% 91.6% 91.5%
+91.5%
+91.1%
+90.2%
+71.1%
+67.5%
+59.6%
+86.7%
+86.0%
+85.1%
+2021-22 2022-23 2023-24 2021-22 2022-23 2023-24
+Futures Options
+In terms of Gross Loss In terms of Net Loss
+ 91.1% of Individual F&O traders (about 73 lakh traders) incurred losses in F&O in
+FY24. These loss-makers incurred an average loss of ₹ 1.20 lakh per person (lower than
+₹ 1.43 lakh per person in FY23).
+Page 14 of 33
+--- PAGE 16 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Chart 5: Average Per Person Net Loss of Loss-Makers in F&O
+₹1.43 Lakh
+₹1.45 Lakh
+₹1.40 Lakh
+₹1.35 Lakh ₹1.30 Lakh
+₹1.30 Lakh
+₹1.25 Lakh ₹1.20 Lakh
+₹1.20 Lakh
+₹1.15 Lakh
+₹1.10 Lakh
+₹1.05 Lakh
+FY22 FY23 FY24
+Note: The loss-makers are classified based on their gross profit or loss.
+5.3. Amount of Losses by Individual Category Traders
+ In FY24, Individual traders’ gross loss (i.e. trading loss before accounting for transaction
+costs) widened to about ₹52,400 crore (compared to ₹48,800 in FY23) whereas net losses
+amplified to about ₹ 74,800 crore (compared to ₹ 65,700 crore in FY23). On the other hand,
+the average net loss narrowed from about ₹ 1,13,000 per person in FY23 to about ₹ 87,000
+per person in FY24.
+Chart 6: Trends in Profit and Loss in F&O segment (Gross vs Net P&L)
+Amount of Losses in F&O Avg. per person Losses
+(in ₹ Crore) (in ₹ ‘000)
+74,812 112.7
+65,747
+95.5
+83.6 86.7
+52,361
+48,765 72.0
+40,824 60.7
+30,778
+2021-22 2022-23 2023-24 2021-22 2022-23 2023-24
+Gross_Loss Net_Loss Avg_Gross_Loss Avg_Net_Loss
+ Individual’s losses in Options segment grew 30.8% year-on-year to ₹77,800 crore in FY24,
+while they made gains of ₹3,000 crore in Futures (compared to losses of about ₹6,200 crore
+in FY23).
+Page 15 of 33
+--- PAGE 17 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+ In Futures, individuals made an average net profit of about ₹60,000 per person in FY24,
+compared to loss of ₹1,28,000 per person in FY23. In Options, average per person net loss
+narrowed to about ₹91,000 in FY24 from about ₹1,03,000 in FY23.
+Chart 7: Trends in Profit and Loss in F&O segment (Futures vs Options)
+Amount of Profits/Losses Avg. per person Profits/Losses
+(in ₹ Crore) (in ‘000 ₹)
+2021-22 2022-23 2023-24
+2021-22 2022-23 2023-24
+59.8
+3,021
+-3,285
+-6,223
+-37,539
+-72.2
+-89.0 -90.9
+-102.9
+-59,524
+-128.3
+Per Person Net P&L in Futures
+-77,833
+Futures Options
+Per Person Net P&L in Options
+5.4. Transaction Costs (TC)
+ On an average, Individuals spent ~ ₹ 26,000 per person as a transaction cost in FY24.
+ Nearly 71% of transaction cost was in the form of Brokerage (51% of TC) and Exchange
+Fee (20% of TC).
+ Individual traders incurred more than ₹50,000 crore in transaction costs for trading in
+F&O during FY22 to FY24. Of which more than half (about ₹25,000 crore) was in the
+form of brokerage, followed by ₹13,800 crore to the Government in the form of STT,
+GST and Stamp duty and ₹10,200 crore in the form of Exchange fees.
+ Compared to FY22, the TC incurred by F&O traders more than doubled from about
+₹10,000 crore to more than ₹22,000 crore in FY24.
+ While the number of transactions have gone up by 157% from 290 crore in FY22 to 745
+crore in FY24, TC per transaction has gone down from about ₹35 to ₹30 during the
+same period.
+Page 16 of 33
+--- PAGE 18 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Chart 8: Trends and Break up of Transactions Costs
+Transaction Costs in F&O segment Transaction Cost Break Up (FY24)
+(Amount in ₹ Crore) (Amount in ₹ Crore)
+22,451
+SEBI Fee Brokerage
+16,982 ₹97 ₹11,364
+0% 51%
+10,047 StampDu
+ty ₹22,451
+₹199 Crore
+Exchange
+1%
+Fee
+GST
+₹4,469
+₹2,868
+20%
+13%
+STT
+2021-22 2022-23 2023-24 ₹3,454
+15%
+5.5. Aggregate Amount of Profit & Loss in F&O during FY22-FY24
+ During FY22 to FY24, there were a total of 1.13 crore unique Individual traders, who
+traded in F&O at least once during these three years. Collectively, they incurred a
+combined gross loss of ₹1,31,903 crore and a combined net loss of ₹1,81,383 crore
+during the period of FY22 to FY24.
+Table 7: Summary of Net Profit and Loss of Individuals in F&O segment
+Transaction
+Gross Gross
+Brokerage Cost (incl. Net Profit Traders
+Year Turnover Profit
+Brokerage)
+(in ₹ Lakh Crore) (in ₹ Crore) (in ₹ Crore) (in ₹ Crore) (in ₹ Crore) (in Lakh)
+FY22 115.0 -30,778 5,185 10,047 -40,824 42.7
+FY23 148.6 -48,765 8,508 16,982 -65,747 58.4
+FY24 172.2 -52,361 11,364 22,451 -74,812 86.3
+Total 435.8 -1,31,903 25,056 49,480 -1,81,383 113.2
+Notes: Based on a sample of top 15 brokers in the equity F&O segment.
+ Out of these 113.2 lakh individual F&O traders, 103.4 lakh traders (or 91.3% traders)
+traded only Options and 0.70 lakh traders (or 0.6% traders) traded only Futures. 9.1
+Page 17 of 33
+--- PAGE 19 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+lakh individual traders (or 8.1% of traders) traded both Futures as well as Options.
+Which means, 112.5 lakh traders (or 99.4% of traders) traded Options at least once
+during these three years.
+ In terms of profit and loss, out of these 113.2 lakh individual F&O traders, 105.1 lakh
+individuals (or 92.8% of total traders) incurred net losses in F&O combined for all three
+years. Alternatively, it means, only 7.2% of F&O traders made profit, when looked
+over a period of three years.
+ Individual category traders made an average per person loss of ₹1.60 lakh over the
+period of three years. For the loss-makers, the average loss was about ₹2 lakh per
+person, whereas for the profit-makers, the average per person profit was ₹3 lakh per
+person.
+Table 8: P&L of Profit-Makers vs Loss-Makers during FY22-FY24 combined
+No of Gross Trans. Trans Cost Net Profit Avg. Net
+Traders Profit Cost (as % of Gross Profit (Per
+Category Profit) Person)
+(in Lakh) (₹ Crore) (₹ Crore) (in %) (₹ Crore) (₹)
+Profit-
+8.1 33,114 8,094 24.4% 25,020 3,08,889
+Makers
+Loss-
+105.1 -1,65,018 41,386 -25.1% -2,06,404 -1,96,388
+Makers
+Overall 113.2 -1,31,904 49,480 25.0%# -1,81,384 -1,60,233
+Note: # - Computed as transaction cost / (absolute amount of gross profit and gross loss)
+Distribution of Losses in F&O-
+ Distribution of losses is highly skewed towards the loss-makers. While about 10,800
+traders made losses of more than ₹1 crore in F&O segment combined for all three
+years, only about 2,500 traders made profit of more than ₹1 crore.
+ These top 10,800 traders in terms of highest losses, incurred an average loss of more
+than ₹2 crore per person over the period of three years.
+ About 4 lakh traders, who were top 3.5% of loss-makers, contributed to 55.3% of total
+losses. These traders incurred an average loss of about ₹28 Lakh per person over the
+period of three years.
+ Only 1.1% of total traders made more than ₹1 Lakh in profit in F&O over the period of
+three years.
+Page 18 of 33
+--- PAGE 20 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Chart 9: Distribution of Profit and Loss Makers in F&O during FY22 to FY24
+No. of Traders in F&O Net Profit/Loss (₹'000 crore)
+Profit(>10CR) 101 Profit(>10CR) 2.4
+Profit(1CR_10CR) 2.4 K Profit(1CR_10CR) 5.6
+Profit(10L_1CR) 26.5 K Profit(10L_1CR) 7.2
+Profit(1L_10L) 96.5 K Profit(1L_10L) 3.2
+Profit(10K_1L) 1.8 Lakh Profit(10K_1L) 0.7
+Profit(Upto_10K) 4.6 Lakh Profit(Upto_10K) 0.1
+Loss(Upto_10K) 38.7 Lakh Loss(Upto_10K) -1.2
+Loss(10K_1L) 39.5 Lakh Loss(10K_1L) -15.3
+Loss(1L_10L) 23.4 Lakh Loss(1L_10L) -73.1
+Loss(10L_1CR) 3.9 Lakh Loss(10L_1CR)-88.2
+Loss(1CR_10CR) 10.8 K Loss(1CR_10CR) -19.8
+Loss(>10CR) 127 Loss(>10CR) -2.7
+Distribution of Losses in Options-
+ For this section, trader’s categories are classified based on the basis of their premium
+turnover in the Options segment and they are defined as follows,
+a) Small-Size: Turnover less than ₹1 lakh over three years’ period
+b) Mid-Size: Turnover between ₹1 lakh - ₹1 Crore over three years’ period
+c) High-Value: Turnover greater than ₹1 Crore over three years’ period
+ This section focuses solely on the Options segment, which represents 99.4% of all F&O
+traders. It was observed that about 30% of all option traders were “Small-Size” traders.
+These “Small-Size” traders incurred ₹1,003 crore in net losses in Options over the
+period of three years. While, their contribution to total turnover was 0.04%, the
+contribution to total losses of Individual category was 0.6%.
+ “Mid-Size” traders represented 53% of total option traders (60 lakh option traders).
+These traders incurred a total loss of ₹32,251 crore. While their contribution to
+turnover was 6.6%, contribution to total losses was 18.4%.
+ “High-Value” traders represented 17% of total option traders (19.3 lakh option traders).
+These traders incurred a total loss of ₹1,41,641 crore. While their contribution to
+turnover was 93.4%, contribution to total losses was 81.0%.
+ More than 80% losses of Individual traders in Options segment were incurred by 17%
+“High-Value” Traders.
+Page 19 of 33
+--- PAGE 21 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+ It was observed that higher trading activity was associated with a higher percentage
+of loss-makers. The proportion of loss-makers was the highest (95% of total traders) in
+“High-Value” traders’ category, compared to “Mid-size” traders (93.8% loss-makers)
+and “Small-size” traders (91.5% loss-makers).
+Table 9: Summary of Net Profit and Loss in Options segment during FY22-FY24
+Category Combined No of No of Loss Loss
+Premium Turnover Net P&L Traders Makers Makers
+(FY22 to FY24) ( ₹ Crore) (in Lakh) (in Lakh) (in %)
+Small-Size
+Traders Upto ₹ 1 Lakh -1,003 33.2 30.4 91.5%
+Mid-Size
+Traders ₹ 1L - ₹ 1CR -32,251 60.0 56.3 93.8%
+High-Value
+Traders > ₹ 1 CR -1,41,641 19.3 18.4 95.0%
+Total - 1,74,895 93.3%
+112.5 105.1
+5.6. Product Preference
+ 99.3% of the F&O traders traded Options at least once during FY24. 94.2% of the F&O
+traders traded only Options and 5.1% traders traded both Futures as well as Options.
+0.7% of the F&O traders traded only Futures. The percentage share of F&O traders,
+who traded Futures at least once during a year, has come down to 5.9% in FY24 from
+10.6% in FY22.
+Chart 10: Product Preference of F&O Traders
+Number of Traders trading Futures and % of F&O Traders Trading Futures
+Options (in Lakh)
+85.7 10.6%
+8.3%
+57.8
+42.2 5.9%
+4.6 4.9 5.1
+2021-22 2022-23 2023-24
+2021-22 2022-23 2023-24
+Futures Options
+Page 20 of 33
+--- PAGE 22 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+5.7. Average Trade Size – Options Segment
+In recent past, the number of option traders has gone up significantly from 42.2 lakh in FY22
+to 85.7 lakh in FY24. In line with this trend, the average number of transactions in Options
+segment increased by 27% over FY22 to 870 transactions per person in FY24. Similarly, the
+average per person turnover (traded value) also increased by 15% over FY22 to ₹ 1 crore per
+person in FY24. However, during the same period, the average trade size has declined by 9%
+from ₹ 13,055 to ₹ 11,824 in FY24.
+Table 10: Per Person Summary Trade Statistics in Options Segment
+Average No of Average Net Average
+Average
+Traders Transactions Losses per Turnover per
+Trade Size
+Year per Person Person Person
+(in Lakh) (Number) (₹) (in ₹ Lakh) (₹)
+2021-22 42.2 687 -88,976 90 13,055
+2022-23 57.8 924 -1,02,929 120 13,036
+2023-24 85.7 870 -90,863 103 11,824
+5.8. Size Wise Trends – Options Segment
+Small-Size Traders
+ In FY24, about 36% of all the option traders (about 30.5 lakh traders) were ‘Small-traders’
+(traded less than ₹ 1 lakh in Options premium turnover).
+ These ‘Small-traders’ contributed 0.1% to total Options’ premium turnover and 1% to total
+losses of Individual category investors.
+ 90.2% of these ‘Small-traders’ incurred losses. The average per person loss of these ‘Small-
+traders’ was ₹ 2,600 per person. Total losses of these ‘Small-traders’ in Options segment
+were about ₹ 788 crore in FY24.
+High Value Traders
+ About 1.6 lakh traders (1.9% of F&O traders) traded for more than ₹ 10 crore in options
+premium turnover in FY24. They contributed 58.9% to Option premium turnover and
+35.4% to losses of the Individual category investors. 93.1% of these traders incurred losses
+and the average loss was ₹17.2 lakh per person.
+Page 21 of 33
+--- PAGE 23 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+ About 10.6 lakh traders (12.5% of F&O traders) traded for more than ₹1 crore in options
+premium turnover in FY24. They contributed 90.2% to Options premium turnover and
+74.3% to losses of the Individual category investors. 93.5% of these traders incurred losses
+and the average loss was ₹5.4 lakh per person. Details in Chart below and Annexure
+table 6.1(A) and 6.1(B).
+Chart 11: Trading Activity-wise Trends (based on Premium Turnover Categories)
+% of Investors Trading Contribution to Contribution to % Loss-Makers
+Options Premium Turnover Losses ##
+#
+>10CR 1.9% 58.9% 35.4% 93.1%
+1CR-10CR 10.6% 31.3% 38.9% 93.6%
+10L-1CR 24.9% 8.7% 19.8% 92.9%
+1L-10L 27.0% 1.1% 4.9% 91.0%
+10K-1L 18.3% 0.1% 0.9% 87.6%
+Less than 10K 17.3% 0.0% 0.2% 93.0%
+Note: 1. Trading activity categories are based on the premium turnover; 2. # - refers to contribution to
+Premium Turnover of Individual Category; 3. ## - refers to contribution to Net Losses of Individual Category
+5.9. Age Wise Trends
+ The proportion of young traders (having age less than 30 years) has increased
+significantly from 31% in FY23 to 43% in FY24.
+ It was observed that the age group of the traders was inversely proportional to the
+possibility of loss. As traders age increased, the percentage of loss-makers in F&O
+declined, indicating relative risk aversion, better risk management or the experience
+coming into play for elderly traders compared to young traders. The percentage of
+loss-makers for young traders (age less than 30 years) was higher (93% in FY24) as
+compared to other age groups. On the other hand, the percentage of loss-makers in
+elderly traders (age greater than 60 years) was relatively lower at 79% in FY24.
+Page 22 of 33
+--- PAGE 24 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Chart 12: Age wise Trends
+Participation by Age Proportion of Loss Makers
+Less than 30 30-40 40-50 50-60 >60
+4% 1 6 8 % % 1 5 3 6 % % % 1 4 2 4 % % % % 3 9 % 1 9 % 8 8 % 4 8 % 0 % 3 9 % 2 9 % 1 9 % 7 8 % 3 8 % 3 9 % 1 9 % 9 8 % 5 8% 9
+8 7
+35%
+40%
+42%
+43%
+31% 35%
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+3 4 5 6 6 3 4 5 6 6 3 4 5 6 6
+< -0 -0 -0 > < -0 -0 -0 > < -0 -0 -0 >
+3 4 5 3 4 5 3 4 5
+FY22 FY23 FY24
+FY22 FY23 FY24
+5.10. Income Wise Trends
+ For this section, F&O traders were classified in the following income brackets,
+a) Low Income: declared annual income less than ₹5 lakh
+b) Mid Income: declared annual income between ₹5 lakh to ₹25 lakh
+c) High Income: declared annual income less than ₹25 Lakh to ₹ 1 Crore
+d) Very High Income: declared annual income greater than ₹1 Crore
+ Nearly 76% of the Individual F&O traders (i.e. 65.4 lakh F&O traders) had declared
+annual income of less than ₹5 lakh and ~ 94% of the Individual F&O traders (i.e. 80.5
+lakh F&O traders) had declared annual income of less than ₹10 lakh in FY24.
+ The proportion of “Low Income” traders has increased significantly from 71% in FY22
+to 76% in FY24.
+ “Mid Income” traders’ category is the second biggest category with 19.2 lakh traders
+(i.e. 18% of F&O traders). So, Small and Mid-Income category combined represented
+almost 98% of Individual F&O traders.
+ The percentage of loss-makers for “Low Income” traders’ category was the highest
+(92.2% in FY24) as compared to the average proportion of loss-makers (91.1% in FY24)
+and also compared to other income groups.
+Page 23 of 33
+--- PAGE 25 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+ With an exception of “Very High Income” Individual F&O traders, the percentage of
+loss-makers in F&O were inversely proportional to their income category. As traders’
+annual income increased, the percentage of loss-makers in that category had declined.
+ The percentage of loss-makers from “High Income” traders’ category was the lowest
+(about 75% loss-makers) amongst all income categories.
+Chart 13: Income wise Trends
+Participation by Annual Income Proportion of Loss Makers
+<5 Lakh 5-10L 10-25L
+7%
+25-50L
+6
+5
+%
+0-100L >100
+5
+L
+%
+% 2 9 % 9
+8% 4 8 %% % 2 8
+% 3 9 % 1 9%
+5 8% 8 % 8
+%
+7 8
+% 2 9 % 0
+9% 4 8 %%
+%
+5 8
+18% 45 77 55
+20% 20% 77 77
+71% 72% 76%
+h L L L L L h L L L L L h L L L L L
+k 0 5 0 0 0 k 0 5 0 0 0 k 0 5 0 0 0
+a 1 2 5 0 0 a 1 2 5 0 0 a 1 2 5 0 0
+L 5 - 5 -0 1 -5 2 1 -0 1 > L 5 - 5 -0 1 -5 2 1 -0 1 > L 5 - 5 -0 1 -5 2 1 -0 1 >
+< 5 < 5 < 5
+FY22 FY23 FY24 FY22 FY23 FY24
+ “Very High Income” F&O traders actually made consolidated net profit of ₹259 crore in
+FY24, compared to all other categories which made consolidated net losses in FY24.
+Although, about 85% of total traders from this category too incurred losses.
+ In terms of average per person P&L, “High Income” traders made average losses of ₹2.6
+lakh per person, followed by “Mid Income” traders (average loss of ₹1.5 lakh per
+person), “Low Income” traders (average loss of ₹65 thousand per person). “Very High
+Income” traders earned an average profit of ₹96 thousand per person.
+Page 24 of 33
+--- PAGE 26 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Table 11: Income wise Trends in F&O during FY24
+No of Average
+No of Loss
+Annual Net P&L Loss P&L
+Category Traders Makers
+Income Makers
+(₹ Crore) (in Lakh) (in Lakh) (in %) (₹ ‘000)
+Low Income Less than ₹5
+-42,790 65.4 60.2 92.2% -65.5
+Lakh
+Mid Income ₹5 Lakh -
+-29,293 19.2 17.0 88.3% -152.5
+₹25 Lakh
+High Income ₹25 Lakh to
+-2,786 1.1 0.8 75.0% -258.0
+₹1 Crore
+Very High
+> ₹1 Crore 259 0.3 0.2 85.2% 95.9
+Income
+Not Not
+-201 0.3 0.3 87.9% -60.9
+Available Available
+Total -74,811 86.3 78.5 91.1% -86.7
+5.11. Gender Wise Trends
+ The proportion of ‘Female’ traders participating in F&O has decreased from 14.9% in FY22
+to 13.7% in FY24.
+ Compared to ‘Male’ traders, the proportion of ‘Female’ loss-making traders in F&O was
+lower across the years. While 91.9% ‘Male’ traders made losses in F&O in FY24, 86.3%
+percentage of ‘Female’ traders made losses in F&O.
+ In terms of average profit and loss, the average net losses by ‘Female’ traders were
+relatively lesser as compared to ‘Male’ traders. In FY24, the Female traders made an
+average per person loss of ₹75,973, while ‘Male’ traders incurred an average loss of
+₹88,804.
+Page 25 of 33
+--- PAGE 27 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Chart 14: Gender wise Trends
+Participation of Female Traders Proportion of Loss Makers
+14.9%
+91.2% 92.4% 91.9%
+14.6%
+87.6%
+86.3%
+85.3%
+13.7%
+e e e e e e
+la la la la la la
+m M m M m M
+e e e
+FY22 FY23 FY24 F F F
+FY22 FY23 FY24
+5.12. Profit-Makers vs. Loss-Makers
+ Throughout the last three years, the Loss-Makers made more losses than the profits made
+by Profit-Makers in absolute terms. In FY24, the Loss-Makers made losses of ₹1.20 lakh
+per person, whereas Profit-Makers made profits of ₹1.03 lakh per person.
+ Profit-Makers incurred ~22% transaction costs as percentage of gross profits (i.e. trading
+profits before accounting for transaction costs) in FY24. Loss-Makers incurred ~27%
+transaction costs, in addition to their gross loss (i.e. trading loss before accounting for
+transaction costs) in FY24.
+Table 12: Profit and Loss of Profit-Makers vs Loss-Makers
+No of Gross Trans. Trans Cost Net Profit Avg. Net
+Traders Profit Cost (as % of Gross Profit (Per
+Year Category Profit) Person)
+(in Lakh) (₹ Crore) (₹ Crore) (in %) (₹ Crore) (₹)
+Profit- 5.8 7,905 1,822 23.0% 6,083 1,04,519
+FY22 Makers
+Loss- 36.1 -38,683 8,225 -21.3% -46,908 -1,29,975
+Makers
+Profit- 7.6 8,497 2,618 30.8% 5,879 77,152
+FY23 Makers
+Loss- 50.0 -57,262 14,364 -25.1% -71,626 -1,43,223
+Makers
+Profit- 12.7 16,712 3,654 21.9% 13,058 1,02,900
+FY24 Makers
+Loss- 72.9 -69,073 18,797 -27.2% -87,870 -1,20,469
+Makers
+Page 26 of 33
+--- PAGE 28 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+5.13. New Traders vs. Regular Traders
+ For this section, traders’ categories are defined as follows,
+a) New Traders: Traders who traded for the first time in three years in FY24 in the
+equity F&O segment.
+b) Regular Traders: Traders who traded for all three consecutive years i.e. FY22-FY24
+in the equity F&O segment.
+c) Others: All other traders.
+ Almost half (42 lakh traders) of all the F&O traders were “New Traders” in FY24. 92.1% of
+these “New Traders” experienced net losses and on an average incurred a net loss of ~
+₹46,000 per person in FY24.
+ Almost 25% of all the traders were “Regular Traders”. 88.7% of these “Regular Traders”
+experienced losses and on an average incurred a net loss of ~ ₹1,50,000 per person in FY24.
+Table 13: Profit and Loss of New Traders vs Regular Traders
+Contri.
+No of Avg % of Contri.
+Net % Loss- to
+Category of Trader Traders P&L Per Total to
+P&L Makers Turnov
+Person Traders Losses
+er
+(Lakh) (₹ Crore) (₹) (%) (%) (%) (%)
+New Traders
+(First time traded 41.9 -19,337 -46,139 92.1% 48.6% 14.3% 25.8%
+in FY24)
+Regular Traders
+(traded in FY22, 22.4 -33,767 -1,50,477 88.7% 26.0% 63.2% 45.1%
+FY23 and FY24)
+Others 21.9 -21,708 -99,078 91.4% 25.4% 22.5% 29.0%
+Total 86.3 -74,812 -86,728 91.1% 100.0% 100.0% 100.0%
+Page 27 of 33
+--- PAGE 29 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+5.14. Geographic Spread
+ A rising number of F&O traders in recent years has primarily been driven by increased
+participation of traders from beyond Top308 cities (B30 cities). In FY24, nearly three
+quarters of the total F&O traders (72.2% of total traders) belonged to the B30 cities,
+compared to 61.7% mutual funds investors, who belonged to the B30 cities.
+ In FY24, the F&O traders from B30 cities contributed 51.3% to total turnover of the
+Individual category, and represented 68.1% total losses of the category. For the reference,
+it may be noted that, as of August 2024, about 27% of Individual investors’ Mutual Fund
+assets were from B30 Locations9. This shows, that investors from B30 cities are relatively
+more active in the F&O segment than Mutual Funds, compared to T30 cities investors.
+ It was also observed that the ratio of F&O trader to Mutual Fund investor is higher for B30
+cities (28.6% in FY24), compared to T30 cities (17.8% in FY24). Meaning, for every 100
+Mutual Fund investors from B30 cities, there were 28.6 F&O traders from B30 cities and
+17.8 F&O traders from T30 cities for every 100 MF investors from T30 cities.
+Chart 15: Trends in Derivatives Traders from B30 Cities
+B30 Cities Derivatives Traders vs. Derivatives Traders for every 100 Mutual
+B30 Cities Mutual Funds Investors Funds Investors
+68.1% 70.3% 72.2% 28.6
+57.5% 58.9% 61.7% 24.5
+20.0 24.5
+20.6
+16.9
+17.8
+15.0
+12.8
+2021-22 2022-23 2023-24 2021-22 2022-23 2023-24
+% of MF Investors from B30
+% of Derivative Traders from B30 Beyond 30 Top 30 Overall
+Note: At the end of March 2024, there were about 3.5 crore unique individual Mutual Fund investors in India.
+8 Top30 refers to the top 30 geographical locations in India and B30 refers to the locations beyond the top 30.
+The Top 30 cities considered for this study are as specified by AMFI.
+9 Report by AMFI on B30 Assets; https://www.amfiindia.com/Themes/Theme1/downloads/home/B30vsT30.pdf
+Page 28 of 33
+--- PAGE 30 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+ During FY24, almost one fourth (23.5%) of all the F&O traders belonged to the Tier I Cities.
+Traders from Tier I cities had higher contribution to Turnover (36.8%) but lower
+contribution to losses (26.2%). Traders from beyond Tier I, II and III cities10, contributed
+lower to turnover but had higher contribution to losses. In FY24, the average per person
+loss was ~₹ 96,800 for Tier I cities Traders, followed by Tier II (~ ₹ 90,400), Tier III (~ ₹
+90,100) and Others (~ ₹ 82,000).
+Chart 16: Trends in Derivatives Traders from Tier I, II and III cities
+% %
+3 % 0
+.1
+5
+.8
+% 6 .7 5
+4
+8
+.6 %
+% 3 2
+5
+.3
+2
+.6
+2 % % %
+1 4 5
+.0 .1 .0 % % %
+1 1 1 1 3 3
+.5 .4 .5
+Tier1 Tier2 Tier3 Others
+Traders Contribution to Turnover Contibution to Loss
+ More than 50% of all the F&O traders, who traded in FY24, were from top four states
+namely Maharashtra, Gujarat, Uttar Pradesh and Rajasthan. 21.7% of F&O traders (or 18.8
+lakh F&O traders) were from Maharashtra followed by Gujarat (10.1 lakh or 11.6%), UP
+(9.3 lakh, or 10.7%) and Rajasthan (5.4 lakh or 6.2%). Details in Annexure 6.2.
+ Amongst 15 major states, the highest 2-year percentage growth in the number of F&O
+traders was seen in UP (186% growth in FY24 over FY22), followed by Bihar (179%), West
+Bengal (177%) and Punjab (162%). Details in Annexure 6.2.
+ In terms of state-wise pattern of average per person loss, it was observed that all the top
+four states with highest average per person loss were from southern region of India,
+namely Telangana (1.97 lakh per person loss), followed by Andhra Pradesh (1.45 lakh per
+person), Tamil Nadu (1.37 lakh per person) and Karnataka (1.35 lakh per person).
+10 Tier I (The following 7 cities considered - Banglore, Delhi, Chennai, Hyderabad, Mumbai, Pune, Kolkata).
+Tier II (The following 20 cities considered - Amritsar, Bhopal, Bhubaneswar, Chandigarh, Faridabad, Ghaziabad,
+Jamshedpur, Jaipur, Kochi, Lucknow, Nagpur, Patna, Raipur, Surat, Visakhapatnam, Agra, Ajmer, Kanpur,
+Mysuru, Srinagar),
+Tier III (The following 19 cities considered - Etawah, Roorkee, Rajamundry, Bhatinda, Hajipur, Rohtak, Hosur,
+Gandhinagar, Junagadh, Udaipur, Salem, Jhansi, Madurai, Meerut, Mathura, Bikaner, Cuttack, Vijayawada,
+Nashik).
+Page 29 of 33
+--- PAGE 31 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+Chart 17: State Wise F&O Traders and their Per Person Loss in F&O in FY24
+20.0 250
+18.0 197 s d
+n
+h 16.0 200a s
+k u
+a L n 14.0 135 137 145 o h T
+i s r e d a r
+T O
+1 1
+6
+8 0 2
+.
+. . .
+0
+0 0 0 74 88 73 83 76
+60
+73 124 110 86 99 78 118 80 76 104 1 1 0 5 0 0 n i s s o L
+n o s
+& r
+F 4.0 50 e P
+8 1 r
+2.0 .8 1 .0 1 3 .9 4 .5 3 .4 0 .4 9 .3 6 .3 4 .3 1 .3 0 .3 3 .2 1 .2 1 .2 6 .1 4 .1 4 .1 2 .1 1 .1 1 .1 e P
+g
+0.0 - v
+A
+F&O Traders (LHS) Average Per Person Loss in Rs `000 (RHS)
+5.15. Trading Behavior and Persistence
+ As many as 76.3% of the loss-making traders persisted with the trading in F&O, in spite
+of making losses in preceding two consecutive years. Out of 24.4 lakh investors who made
+losses in both FY22 and FY23, 18.6 lakh traders continued to trade in third year, while 5.8
+lakh traders stopped trading in the third year. However, only 8.3% of traders, who
+persisted to trade in F&O in third year in spite of losses in two preceding years, succeeded
+to make profit in third year.
+*******
+Page 30 of 33
+--- PAGE 32 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+6. ANNEXURES
+6.1. Trends based on Trading Activity in Options in FY24
+Table 6.1 (A) – Distribution of Traders
+Categories based Per Person
+No of Traders Net Losses
+on Premium Average P&L
+Turnover (in Lakh) (in ₹) (in ₹ crore)
+Less than 10K 14.8 -819 -121
+10K-1L 15.7 -4,251 -667
+1L-10L 23.2 -16,340 -3,786
+10L-1CR 21.4 -72,094 -15,392
+1CR-10CR 9.1 -3,34,201 -30,312
+>10CR 1.6 -17,22,188 -27,555
+Table 6.1 (B) – Percentage Contribution to Turnover and Losses
+Categories
+% share in % share in % of
+based on % of total Contribution
+Premium Notional Loss-
+Premium Investors in Losses
+Turnover Turnover Makers
+Turnover
+Less than 10K 17.3% 0.0% 0.0% 0.2% 93.0%
+10K-1L 18.3% 0.1% 0.2% 0.9% 87.6%
+1L-10L 27.0% 1.1% 1.7% 4.9% 91.0%
+10L-1CR 24.9% 8.7% 10.2% 19.8% 92.9%
+1CR-10CR 10.6% 31.3% 33.3% 38.9% 93.6%
+>10CR 1.9% 58.9% 54.6% 35.4% 93.1%
+Page 31 of 33
+--- PAGE 33 ---
+Analysis of Profits & Losses in the Equity Derivatives Segment (FY22-FY24)
+6.2. State-wise distribution of F&O Traders
+State Name 2021-22 2022-23 2023-24 Percent Change
+(FY24 over FY22)
+Maharashtra 11.68 14.56 18.78 61%
+Gujarat 4.88 6.83 10.09 107%
+Uttar Pradesh 3.25 5.25 9.28 186%
+Rajasthan 2.17 3.21 5.37 147%
+Madhya Pradesh 1.81 2.63 4.28 136%
+Karnataka 2.5 3.05 4.02 61%
+West Bengal 1.42 2.26 3.94 177%
+Bihar 1.28 2.02 3.57 179%
+Delhi 1.59 2.16 3.41 114%
+Haryana 1.38 1.99 3.1 125%
+Tamil Nadu 1.96 2.52 3.04 55%
+Punjab 0.87 1.36 2.28 162%
+Andhra Pradesh 1.61 1.82 2.11 31%
+Telangana 1.54 1.72 2.07 34%
+Odisha 0.78 1.08 1.62 108%
+Jharkhand 0.58 0.86 1.43 147%
+Kerala 0.76 1.07 1.35 78%
+Chattisgarh 0.48 0.7 1.19 148%
+Assam 0.32 0.56 1.14 256%
+Uttarakhand 0.39 0.61 1.05 169%
+Himachal Pradesh 0.22 0.34 0.6 173%
+Jammu and Kashmir 0.17 0.26 0.43 153%
+Chandigarh 0.08 0.12 0.17 113%
+Goa 0.08 0.11 0.16 100%
+Tripura 0.04 0.06 0.11 175%
+Dadra and Nagar Hav. 0.02 0.04 0.09 350%
+Manipur 0.08 0.07 0.07 -13%
+Andaman and Nico.In. 0.02 0.04 0.06 200%
+Pondicherry 0.03 0.03 0.04 33%
+Daman and Diu 0.01 0.02 0.03 200%
+Megalaya 0.01 0.02 0.03 200%
+Nagaland 0.01 0.01 0.02 100%
+Arunachal Pradesh 0.01 0.02 0.02 100%
+Sikkim 0.01 0.01 0.02 100%
+Mizoram 0 0.01 0.01 NA
+Lakshadweep 0 0 0 NA
+Others # 0.7 0.93 1.28 89%
+Total 42.74 58.35 86.26 102%
+Note: 1. Gray color represent categories are not color coded as the base is very small. 2. # means data
+not available.
+*******
+Page 32 of 33

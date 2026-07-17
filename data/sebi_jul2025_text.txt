@@ -1,0 +1,265 @@
+pages: 7
+--- PAGE 1 ---
+Comparative study of growth in Equity Derivatives Segment vis-à-
+vis Cash Market after recent measures
+A. Executive Summary
+1. Derivatives market assist in better price discovery, improve market liquidity and
+allow investors to manage their risks better. However, with an explosion in index
+options trading on expiry day over time, concerns arose around investor
+protection & systemic stability. Accordingly, measures were introduced to
+strengthen equity index derivatives framework, as mentioned in para 5 of the
+report.
+2. The trading activity in Equity Derivatives Segment (EDS) after these measures
+– both across all investors, and for individuals alone, has been analyzed (i.e.
+from December 2024 to May 2025). Key findings are as follows:
+a. Index options turnover, year on year, is down by 9% (in premium terms)
+and 29% (in notional terms). However, compared to 2 years ago, index
+options volume is up by 14% (in premium terms) and 42% (in notional
+terms).
+b. Turnover of individuals in premium terms in EDS is down by 11% year
+on year and up by 36% over similar period two years ago.
+c. Number of unique individual investors trading in EDS down by 20%
+compared to previous year and up by 24% from 2 years ago.
+d. India continues to see relatively very high level of trading in EDS,
+compared to other markets, particularly in index options.
+3. SEBI vide circular dated May 29, 2025, introduced certain measures to
+strengthen risk metrics in derivatives with following key objectives:
+a. Better monitoring and disclosure of derivatives risks
+b. Reducing instances of spurious F&O ban periods in single stocks
+c. Better oversight over the possibility of concentration or manipulation risk
+in index options
+Page 1 of 7
+--- PAGE 2 ---
+4. Analysis of profit and loss of individual traders in EDS suggests that at
+aggregate level, nearly 91% of individual traders incurred net loss in EDS in FY
+2025 (similar trend was observed in FY 2024).
+B. Detailed Note on trend in trading activity
+5. SEBI vide circular dated October 01, 2024, introduced following measures to
+strengthen equity index derivatives framework.
+Table 1: Summary of recent measures in EDS
+Sr. no. Measure Effective From
+i. Rationalization of Weekly Index derivatives November 20, 2024
+products
+ii. Increase in tail risk coverage on the day of options November 20, 2024
+expiry
+iii. Increased contract size for index derivatives* January 02, 2025
+iv. Rationalization of Monthly index derivative January 2025
+products**
+v. Upfront collection of Option Premium from buyers February 10, 2025
+vi. Removal of Calendar spread treatment on the February 10, 2025
+Expiry Day
+vii. Intraday monitoring of position limits*** April 01, 2025
+* Minimum contract sizes on NSE and BSE were increased w.e.f. Jan 02, 2025 and Jan 10, 2025
+respectively.
+**All index derivatives products for each exchange to expire on single day of the week i.e. BSE on
+Tuesday, NSE on Thursday and MSE on Friday.
+***Vide circular dated March 28, 2025, breach of position limits intraday for index derivatives were
+exempted from any penalty, until further directions.
+6. With the intention to gauge the trading activity in EDS after these measures
+were introduced – both across all investors, and for individuals alone, activity
+from December 2024 to May 2025 (six months), after the above measures
+started to take effect, is considered. For perspective and comparison, trading
+activity over similar periods across earlier years is also provided. It may
+however be pertinent to note that any causality can be difficult to establish,
+given that multiple variables and factors may be behind any variation in
+volumes.
+7. During the period FY 2020 to FY 2025, the turnover growth in overall EDS
+(options in premium terms) and the Cash Market (CM) are comparable i.e.
+Average Daily Traded Value in CM grew at the CAGR of 25% whereas that in
+EDS grew at 23%.
+Page 2 of 7
+--- PAGE 3 ---
+Table 2: Long-term trend in turnover for EDS and CM
+Avg. Daily FY 20 FY 21 FY 22 FY 23 FY 24 FY 25 5Y
+Turnover (₹Cr.) CAGR
+EDS 92,724 1,21,882 1,47,039 1,62,728 1,97,649 2,63,832 23%
+CM 39,148 66,007 72,368 57,666 87,978 1,20,782 25%
+8. During these five years, within EDS, options segment (in premium terms) grew
+at the fastest rate with average daily premium traded growing at the CAGR of
+72% for index options and 54% for single stock options. Similar trend is
+observed in notional turnover with index options turnover growing at CAGR of
+101% and stock options turnover growing at CAGR of 61%.
+Table 3: Long-term segment wise trend in turnover for EDS
+Avg. Daily FY 20 FY 21 FY 22 FY 23 FY 24 FY 25 5Y
+Turnover (₹Cr.) CAGR
+Index Options –
+Premium 4,359 10,569 23,601 43,947 58,076 64,881 72%
+Stock Options –
+Premium 924 2,320 4,201 3,754 5,573 8,114 54%
+Index Options –
+Notional 12,59,389 25,04,490 67,55,624 1,51,05,539 3,51,98,073 4,18,23,244 101%
+Stock Options –
+49,777 1,05,430 2,27,153 2,37,993 3,73,398 5,38,972 61%
+Notional
+9. During the period FY 2020 to FY 2025, the turnover of individuals in EDS grew
+at the CAGR of 19%. Growth in average daily traded value by Individuals was
+the highest for index options (CAGR 82%) followed by stock options (CAGR
+48%). For reference, in FY 2019-20, of every ₹100 traded by individuals in EDS,
+around ₹5 went in to index options. This rose to ₹41 in FY 2024-25.
+Table 4: Long-term trend in turnover in EDS for individuals
+Avg. daily
+traded value FY 20 FY 21 FY 22 FY 23 FY 24 FY 25 5Y
+by individuals CAGR
+(₹Cr.)
+Overall EDS 25,359 36,045 35,250 40,735 48,860 61,534 19%
+Index Options 1,256 3,326 7,954 15,423 20,796 25,324 82%
+Stock Options 297 749 1,384 1,171 1,655 2,142 48%
+10. During December 2024 to May 2025, average daily traded value in EDS
+witnessed degrowth of 5% when compared to the similar period last year (i.e.
+December 2023 to May 2024) and witnessed a growth of 46% over similar
+period 2 years back (i.e. December 2022 to May 2023). In comparison to the
+above, average daily traded value in CM saw a degrowth of 11% over the
+Page 3 of 7
+--- PAGE 4 ---
+similar period last year and a growth of 91% over similar period 2 years back.
+For reference, trend in turnover in EDS and CM for FY 2020-2025 is covered in
+table 2 of the study above.
+Table 5: Recent trend in turnover of EDS and CM (Market wide)
+Dec 24- May 25 Dec 23- May Dec 22- May A compared A
+Avg. daily
+24 (B) 23 (C) to B compared
+traded value (A)
+to C
+(₹Cr.)
+EDS 2,43,094 2,55,206 1,66,730 -5% 46%
+CM 1,05,544 1,18,190 55,366 -11% 91%
+11. Within EDS, during the last 6 months, average daily premium traded for index
+options saw a degrowth of 9% (or degrowth of 29% in notional terms) compared
+to similar period in the previous year and a growth of 14% (or growth of 42% in
+notional terms) compared to similar period two years back. For reference, trend
+in turnover in Index options for FY 2020-2025 is covered in table 3 of the study
+above.
+Table 6: Recent trend in turnover of index options segment
+Dec 24- May Dec 23- May Dec 22- A A
+Avg. daily premium 25 (A) 24 (B) May 23 (C) compared compared
+traded (₹Cr.) to B to C
+Index Options - Market
+61,533 67,467 54,086 -9% 14%
+wide (Premium)
+Index Options - Market
+3,18,50,658 4,48,42,314 2,24,69,205 -29% 42%
+wide (Notional)
+12. During December 2024 to May 2025, average daily traded value by individual
+investors in EDS witnessed degrowth of 11% when compared to the similar
+period previous year and witnessed a growth of 36% over similar period 2 years
+back. For reference, trend in turnover in EDS for FY 2020-2025 is covered in
+table 4 of the study above.
+Table 7: Recent trend in turnover for EDS (Individual investors)
+Dec 24- Dec 23- Dec 22- May A compared A compared
+Avg. daily traded
+May 25 (A) May 24 (B) 23 (C) to B to C
+value (₹Cr.)
+EDS - individual 56,042 62,722 41,272 -11% 36%
+13. During the last 6 months, the number of overall unique traders dealing in EDS
+(across NSE and BSE) witnessed a degrowth of 20% compared to previous
+year and witnessed a growth of 24% compared to similar period two years back.
+Page 4 of 7
+--- PAGE 5 ---
+It is seen that traders with total turnover less than ₹ 1 lakh witnessed high
+degrowth compared to previous year. The same bucket witnessed highest
+increase in unique investors in EDS compared to two years ago.
+Table 8: Market wide breakup of unique traders across various buckets (EDS)
+Investor count with Dec 24- Dec 23- Dec 22- May A A
+traded value in EDS May 25 May 24 (B) 23 (C)* compared compared
+(A) to B to C
+< ₹10,000 10,36,412 14,82,603 6,59,746 -30% 57%
+>₹10,000 - <₹1 Lakh 12,47,137 16,01,235 9,35,569 -22% 33%
+₹1 Lakh - ₹10 Lakh 16,61,303 21,71,763 14,94,229 -24% 11%
+₹10 Lakh – ₹1 Cr 17,08,985 19,84,051 15,05,975 -14% 13%
+₹1 Cr - ₹10 Cr 8,98,435 9,35,833 7,10,580 -4% 26%
+> ₹10 Cr 2,22,202 2,49,799 1,78,891 -11% 24%
+Total 67,74,474 84,25,284 54,84,990 -20% 24%
+* During the period, BSE did not have active participation in EDS. Further, the total traded values on BSE and NSE
+are aggregated for the respective periods to classify an entity in a given bucket.
+14. Further, for the traders in various buckets as mentioned in the above table, the
+average traded value across all traders in the said bucket was calculated across
+BSE and NSE. For reference, the average traded value in EDS for traders in
+the comparable bucket for previous two years is also provided.
+Table 9: Market wide breakup of average traded value in EDS
+Average traded value Dec 24- May 25 Dec 23- May Dec 22- May A A
+in EDS (₹) 24 (B) 23 (C) compared compared
+to B to C
+< ₹10,000 8% -5%
+3,074 2,855 3,232
+>₹10,000 - <₹1 Lakh 0% -3%
+41,809 41,915 42,929
+₹1 Lakh - ₹10 Lakh 1% -2%
+4,04,799 4,01,820 4,13,945
+₹10 Lakh – ₹1 Cr 3% 3%
+37,07,977 35,94,684 36,03,921
+₹1 Cr - ₹10 Cr 0% 0%
+3,20,09,410 3,19,31,540 3,19,87,900
+> ₹10 Cr 0% 14%
+2,39,22,47,000 2,38,48,05,000 2,10,03,62,000
+15. During the last 6 months, the count of individuals trading in EDS witnessed
+degrowth of 20% compared to previous year and witnessed a growth of 24%
+compared to similar period two years back.
+Table 10: Recent trend in unique individual traders in EDS
+Dec 24- May Dec 23- May Dec 22- May A A
+Count of individual 25 (A) 24 (B) 23 (C) compared compared
+investors to B to C
+Trading in EDS 67,55,579 84,06,551 54,68,988 -20% 24%
+Page 5 of 7
+--- PAGE 6 ---
+16. Minimum contract size of weekly index derivatives on NSE and BSE has been
+revised upwards from Jan 02, 2025 and Jan 10, 2025, respectively. Further, the
+same for monthly index derivatives products has been increased upwards from
+Feb 2025 onwards. Hence, the trend in number of contracts traded is not
+comparable to similar period in past. However, basis data of World Federation
+of Exchanges, for the period March 2025, Indian exchange holds top position
+among the global peers in terms of number of contracts traded with the average
+number of traded contracts more than 4.3 times higher than the second-ranked
+exchange.
+C. Analysis of profit and loss of individual traders in FY 2024-25
+17. A study was undertaken on profits and losses made by individual traders in
+EDS for FY 2024-25. Top 13 stock brokers in EDS (combined client base of
+around 96 lakh unique traders in EDS as against around 107 lakh unique
+traders across market) were included in the study.
+18. The study indicates that the net losses of individual traders widened by 41% to
+₹1,05,603 crore in FY25 from ₹74,812 crore in FY24 (after accounting for
+transaction costs). Further, the percentage of traders making losses in EDS
+remained broadly unchanged at 91% from earlier study done by SEBI (Link to
+previous SEBI study published on September 23, 2024).
+Table 11: Annual profits and losses of individual traders in EDS –FY22 to FY25
+Loss Average per
+Net Profit No. of traders
+Year makers person P&L
+(₹Crore) (lakhs)
+(%) (₹)
+FY22 -40,824 42.7 90.2% -95,517
+FY23 -65,747 58.4 91.7% -1,12,677
+FY24 -74,812 86.3 91.1% -86,728
+FY25 -1,05,603 96.0 91.0% -1,10,069
+Y-O-Y Change 41% 11% NA 27%
+19. Further, quarterly trend in participation and profit/loss outcome of individual
+traders was examined for FY 2024-25. Number of unique individual traders in
+EDS declined from around 61.4 lacs in FY25:Q1 to around 42.7 lacs in FY25:Q4
+(i.e. Derivatives measures were rolled out from November 20, 2024 onwards).
+During the first three quarters of FY25, the aggregate net loss across the
+individual traders and the average net loss per person were rising. However, it
+is seen that in FY25:Q4, there is a reduction in losses of individual traders –
+both at aggregate as well as per person level. At aggregate level, however, the
+Page 6 of 7
+--- PAGE 7 ---
+quantum of loss as well as % of loss makers is at a level higher than that
+observed in FY25:Q1.
+Table 12: Quarterly profits and losses of individual traders in EDS – FY25
+Loss Average per
+Net Profit No of /traders
+Year makers person P&L
+(₹Crore) (lakhs)
+(%) (₹)
+FY25:Q1 -21,255 61.4 84.5% -34,606
+FY25:Q2 -25,942 59.2 86.3% -43,847
+FY25:Q3 -33,661 53.5 88.5% -62,975
+FY25:Q4 -24,745 42.7 86.4% -57,920
+Q3 to Q4 Change -26% -20% NA -8%
+Note:
+1. Source of Data for the report: NSE, BSE
+2. For long term trend in turnover, the entire period from FY 20 has been divided in to buckets of one month
+and average of such monthly averages are considered. Figures rounded off to nearest number.
+3. Client category considered under Individual investor/trader: Individual and HUF. For profitability study
+(Section C of the Report), the client categories as taken in previous SEBI study on profit/loss in EDS have
+been considered.
+*****
+Page 7 of 7
